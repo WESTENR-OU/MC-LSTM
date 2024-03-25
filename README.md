@@ -4,7 +4,7 @@ Thank you for your interest in our research!
 
 This repository contains the preliminary version of the code needed to reproduce our findings. Updates may follow to enhance the code's accuracy and functionality.
 
-How to run the code (with minimal modification on paths. However, you may still need to adjust your paths accordingly as you run the code):
+**How to run the code (with minimal modification on paths. However, you may still need to adjust your paths accordingly as you run the code):**
 
 (1) Create a folder, e.g. "test"
 
@@ -32,7 +32,7 @@ Save the folder "Data" to the path "test/Collaborative_Research".
     * The csv files will be saved to "test/MC-LSTM/result_128nodes"
     
 
-Code for illustration (You can change the saving path at the end of the scripts):
+**Code for illustration (You can change the saving path at the end of the scripts):**
   
 (1) mass_conservation_illustration.py: Produce the cumulative error time series plot.
 
